@@ -1,7 +1,7 @@
-# VERIFICAR BANDEIRA DE CARTÃO DE CRÉDITO EM JAVASCRIPT
+## VERIFICA BANDEIRA DE CARTÃO DE CRÉDITO
 
-Em um determinado projeto tive que fazer uma função para validar a bandeira de cartão de crédito, com base no numero informado.
-Após pesquisar muito não encontrei nada pronto, então resolvi montar minha função usando regex.
+<p>Projeto para Bootcamp Microsoft AI for Tech - GitHub Copilot </p>
+<p> https://dio.me/ </p>
 
 ### como executar?
 
